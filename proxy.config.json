@@ -2,8 +2,6 @@
     "proxy_ip": ["161.202.226.194", "165.22.64.68", "165.22.64.68"],
     "proxy_port": ["80", "35031", "35031"],
     "proxy_username": "",
-    "proxy_password": "",
-
-    "excludes": ["DJ", "repost", "management", "group", "agency", "singer", "beat", "producer", "prod by"]
+    "proxy_password": ""
 }
 
